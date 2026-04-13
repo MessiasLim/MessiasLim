@@ -95,6 +95,7 @@ Busco oportunidades onde eu possa aprender rápido, contribuir de forma consiste
   <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 <br>
+
 ---
 
 ## Filosofia
