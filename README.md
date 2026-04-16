@@ -1,22 +1,22 @@
 # Messias Lima
 
-**`Desenvolvedor Full-Stack`**
+**_`Desenvolvedor Full-Stack`_**
+
+Atuo como desenvolvedor Full-Stack com foco em JavaScript, TypeScript, React.js, Next.js, Node.js, PostegreSQL e MySQL, aplicando conceitos de arquitetura, integração com APIs e boas práticas de desenvolvimento em projetos práticos.
 
 Desenvolvo aplicações web completas, transformando problemas reais em soluções funcionais, desde interfaces bem estruturadas até APIs e regras de negócio bem definidas.
 
-Atuo como desenvolvedor Full-Stack com foco em JavaScript (React e Node.js), aplicando conceitos de arquitetura, integração com APIs e boas práticas de desenvolvimento em projetos práticos.
-
 Tenho como prioridade escrever código limpo, organizado e escalável, buscando evolução contínua e proximidade com cenários reais de produção.
 
-Busco oportunidades onde eu possa aprender rápido, contribuir de forma consistente e evoluir dentro de times que valorizem qualidade técnica e crescimento constante.
+Busco oportunidades onde eu possa aprender e contribuir de forma consistente e evoluir dentro de times que valorizem qualidade técnica e crescimento constante.
 
 ---
 
 <p align="left">
-    <a href="https://github.com/MessiasLim">
+    <a href="https://github.com/MessiasLim?tab=repositories">
         <img 
             alt="GitHub" 
-            title="Acesse meu GitHub" 
+            title="Acesse meus Repositórios" 
             style="padding-right: 6px;"
             src="https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=ffffff"
         />
@@ -53,14 +53,14 @@ Busco oportunidades onde eu possa aprender rápido, contribuir de forma consiste
             src="https://img.shields.io/badge/Instagram-2A0D14?style=for-the-badge&logo=instagram&logoColor=E4405F"
         />
     </a>
-    <a href="https://www.facebook.com/Messias Lima">
+    <a href="https://www.facebook.com/share/1bpJh4NC5R/">
         <img 
             alt="Facebook" 
             title="Me acompanhe no Facebook" 
             style="padding-right: 6px;"
             src="https://img.shields.io/badge/Facebook-0D1A2F?style=for-the-badge&logo=facebook&logoColor=1877F2"
         />
-    <a href="https://www.tiktok.com/@SEU_USUARIO">
+    <a href="https://www.tiktok.com/@messias.lim?_r=1&_t=ZS-95b3qVTdI6D">
         <img 
             alt="TikTok" 
             title="Me siga no TikTok" 
@@ -97,10 +97,10 @@ Busco oportunidades onde eu possa aprender rápido, contribuir de forma consiste
 
 ---
 
-## Filosofia
+### Filosofia
 
 > *"O que é construído hoje sustenta o amanhã.  
 > Código não é só solução imediata, é base para o que ainda vai existir."*
 
-⭐ Se você curte meu trabalho, considere dar uma estrela nos repositórios — isso ajuda a apoiar e acompanhar minha evolução.  
+⭐ Se você curte meu trabalho, considere dar uma estrela nos repositórios, isso ajuda a apoiar e acompanhar minha evolução.  
 🤝 Sempre aberto a colaborações, parcerias e boas ideias.
