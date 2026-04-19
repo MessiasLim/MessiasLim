@@ -36,6 +36,7 @@ Busco oportunidades onde eu possa aprender e contribuir de forma consistente e e
             style="padding-right: 6px;"
             src="https://custom-icon-badges.demolab.com/github/followers/MessiasLim?color=1a4fa3&labelColor=0d2a57&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+    </a>
     <a href="https://www.linkedin.com/in/messias-lima-1685892b5/">
         <img 
             alt="LinkedIn" 
@@ -43,7 +44,6 @@ Busco oportunidades onde eu possa aprender e contribuir de forma consistente e e
             style="padding-right: 6px;"
             src="https://img.shields.io/badge/LinkedIn-063970?style=for-the-badge&logo=linkedin&logoColor=white"            
         />
-    </a>
     </a>
     <a href="https://www.instagram.com/messias.lima_?igsh=ajRpMHM1cXZ5c3oz">
         <img 
@@ -60,6 +60,7 @@ Busco oportunidades onde eu possa aprender e contribuir de forma consistente e e
             style="padding-right: 6px;"
             src="https://img.shields.io/badge/Facebook-0D1A2F?style=for-the-badge&logo=facebook&logoColor=1877F2"
         />
+    </a>
     <a href="https://www.tiktok.com/@messias.lim?_r=1&_t=ZS-95b3qVTdI6D">
         <img 
             alt="TikTok" 
@@ -68,8 +69,6 @@ Busco oportunidades onde eu possa aprender e contribuir de forma consistente e e
             src="https://img.shields.io/badge/TikTok-1A1A1A?style=for-the-badge&logo=tiktok&logoColor=ffffff"
         />
     </a>
-    </a>
-    
 </p>
 
 ---
