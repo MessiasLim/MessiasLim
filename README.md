@@ -1,14 +1,14 @@
 # Messias Lima
 
-**_`Desenvolvedor Full-Stack`_**
+*_`Desenvolvedor Full-Stack`_*
 
-Atuo como desenvolvedor Full-Stack com foco em JavaScript, TypeScript, React.js, Next.js, Node.js, PostegreSQL e MySQL, aplicando conceitos de arquitetura, integração com APIs e boas práticas de desenvolvimento em projetos práticos.
+Atuo como Desenvolvedor Full-Stack, com foco em tecnologias como JavaScript, TypeScript, React, Next.js e Node.js, além de trabalhar com PostgreSQL e MySQL, aplicando conceitos de arquitetura, integração com APIs e boas práticas de desenvolvimento.
 
-Desenvolvo aplicações web completas, transformando problemas reais em soluções funcionais, desde interfaces bem estruturadas até APIs e regras de negócio bem definidas.
+Gosto de construir aplicações completas, cuidando tanto da interface quanto do backend, sempre buscando transformar problemas reais em soluções simples e funcionais. Busco organização, clareza para melhor manutenção do código em meus projetos.
 
-Tenho como prioridade escrever código limpo, organizado e escalável, buscando evolução contínua e proximidade com cenários reais de produção.
+Busco escrever código de forma limpa, legível e sustentável a longo prazo, com atenção à organização, escalabilidade e qualidade técnica. Busco evoluir continuamente, mantendo proximidade com cenários reais de produção e decisões de arquitetura.
 
-Busco oportunidades onde eu possa aprender e contribuir de forma consistente e evoluir dentro de times que valorizem qualidade técnica e crescimento constante.
+Estou aberto a oportunidades em que eu possa aprender, contribuir de forma consistente e evoluir dentro de times que valorizem qualidade técnica e crescimento constante.
 
 ---
 
@@ -21,7 +21,7 @@ Busco oportunidades onde eu possa aprender e contribuir de forma consistente e e
             src="https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=ffffff"
         />
     </a>
-    <a href="https://github.com/MessiasLim?tab=repositories&sort=stargazers">
+    <a href="https://github.com/MessiasLim?tab=stars">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -34,7 +34,7 @@ Busco oportunidades onde eu possa aprender e contribuir de forma consistente e e
             alt="Seguidores" 
             title="Me siga no GitHub" 
             style="padding-right: 6px;"
-            src="https://custom-icon-badges.demolab.com/github/followers/MessiasLim?color=1a4fa3&labelColor=0d2a57&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/MessiasLim?color=1a4fa3&labelColor=0d2a57&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/messias-lima-1685892b5/">
@@ -75,22 +75,134 @@ Busco oportunidades onde eu possa aprender e contribuir de forma consistente e e
 
 ### Linguagens e Tecnologias
 
-  <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="left" alt="SASS" title="SASS" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
-  <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="left" alt="React" title="React" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 5px;" src="https://github.com/user-attachments/assets/a9fde323-e7e2-4ced-9d76-6ab73dba2217"/>
-  <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
-  <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img 
+    align="left" 
+    alt="HTML" 
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="CSS" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="SASS" 
+    title="SASS" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="Bootstrap" 
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="Tailwind CSS" 
+    title="Tailwind CSS" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="jQuery" 
+    title="jQuery" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="PHP" 
+    title="PHP" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="React" 
+    title="React" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://github.com/user-attachments/assets/a9fde323-e7e2-4ced-9d76-6ab73dba2217"
+  />
+  <img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
+  />
+  <img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="Git" 
+    title="Git" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+  />
 
 <br/>
 
@@ -98,8 +210,9 @@ Busco oportunidades onde eu possa aprender e contribuir de forma consistente e e
 
 ### Filosofia
 
-> *"O que é construído hoje sustenta o amanhã.  
-> Código não é só solução imediata, é base para o que ainda vai existir."*
+> *_"Amanhã é o resultado do que foi construído hoje."_  
+> Código não é só solução imediata, é base para o que ainda vai existir.*
 
 ⭐ Se você curte meu trabalho, considere dar uma estrela nos repositórios, isso ajuda a apoiar e acompanhar minha evolução.  
-🤝 Sempre aberto a colaborações, parcerias e boas ideias.
+🤝 Sempre aberto a colaborações, parcerias e trocas ideias.
+
