@@ -34,7 +34,7 @@ Estou aberto a oportunidades em que eu possa aprender, contribuir de forma consi
             alt="Seguidores" 
             title="Me siga no GitHub" 
             style="padding-right: 6px;"
-            src="https://img.shields.io/github/followers/MessiasLim?color=1a4fa3&labelColor=0d2a57&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/MessiasLim?label=Seguidores&style=for-the-badge&color=1a4fa3&labelColor=0d2a57&logo=github&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/messias-lima-1685892b5/">
