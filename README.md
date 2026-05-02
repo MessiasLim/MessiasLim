@@ -26,7 +26,7 @@ Estou aberto a oportunidades em que eu possa aprender, contribuir de forma consi
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             style="padding-right: 6px;"
-            src="https://custom-icon-badges.demolab.com/github/stars/MessiasLim?color=3b7a1f&style=for-the-badge&labelColor=1f3d0f&logo=star&label=estrelas&query=stars&url=https://img.shields.io/github/stars/MessiasLim?affiliations=OWNER"
+            src="https://custom-icon-badges.demolab.com/github/stars/MessiasLim?color=3b7a1f&labelColor=1f3d0f&style=for-the-badge&logo=star&label=Estrelas"
         />
     </a>
     <a href="https://github.com/MessiasLim?tab=followers">
