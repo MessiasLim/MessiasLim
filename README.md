@@ -8,7 +8,7 @@ Gosto de construir aplicações completas, cuidando tanto da interface quanto do
 
 Busco escrever código de forma limpa, legível e sustentável a longo prazo, com atenção à organização, escalabilidade e qualidade técnica. Busco evoluir continuamente, mantendo proximidade com cenários reais de produção e decisões de arquitetura.
 
-Estou aberto a oportunidades para aprender, contribuir e evoluir dentro de grandes times de desenvolvimento.
+Estou aberto a novas oportunidades para aprender, contribuir e evoluir dentro de grandes times de desenvolvimento.
 
 ---
 
