@@ -2,13 +2,13 @@
 
 *_`Desenvolvedor Full-Stack`_*
 
-Atuo como Desenvolvedor Full-Stack, com foco em tecnologias como JavaScript, TypeScript, React, Next.js e Node.js, além de trabalhar com PostgreSQL e MySQL, aplicando conceitos de arquitetura, integração com APIs e boas práticas de desenvolvimento.
+Atuo como Desenvolvedor Full-Stack, utilizando principalmente JavaScript, TypeScript, React, Next.js e Node.js, além de trabalhar com PostgreSQL, MySQL e MongoDB no desenvolvimento de aplicações web. Possuo experiência com tecnologias voltadas para desenvolvimento frontend e backend, estilização de interfaces, versionamento de código e gerenciamento de bancos de dados. Tenho experiência na construção de sistemas completos, desde a interface até o backend, aplicando boas práticas de desenvolvimento, integração com APIs, modelagem de banco de dados e organização de código voltada para manutenção, escalabilidade e evolução contínua dos projetos.
 
-Gosto de construir aplicações completas, cuidando tanto da interface quanto do backend, sempre buscando transformar problemas reais em soluções simples e funcionais. Busco organização, clareza para melhor manutenção do código em meus projetos.
 
-Busco escrever código de forma limpa, legível e sustentável a longo prazo, com atenção à organização, escalabilidade e qualidade técnica. Busco evoluir continuamente, mantendo proximidade com cenários reais de produção e decisões de arquitetura.
+Tenho interesse em Engenharia de Software, me especializar no desenvolvimento Back-End e  Inteligência Artificial. Em agosto, iniciarei minha graduação na área de IA, complementando minha formação prática através de projetos reais e estudos contínuos. Além de participar de projetos reais por meio de bolsas de desenvolvimento, também desenvolvo projetos pessoais, buscando evoluir continuamente através da prática, do aprendizado constante e da experiência adquirida em cenários reais. Atualmente, mantenho foco no aprofundamento de conhecimentos em desenvolvimento de software e na construção de soluções cada vez mais robustas e eficientes.
 
 Estou aberto a novas oportunidades para aprender, contribuir e evoluir dentro de grandes times de desenvolvimento.
+
 
 ---
 
@@ -21,7 +21,7 @@ Estou aberto a novas oportunidades para aprender, contribuir e evoluir dentro de
             src="https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=ffffff"
         />
     </a>
-    <a href="https://github.com/MessiasLim?tab=stars">
+    <a href="https://github.com/MessiasLim?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
