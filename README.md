@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F3F4F6,50:FAFAFA,100:F3F4F6&height=150&section=header&text=Messias%20Nascimento%20Lima&fontSize=38&fontColor=0A1628&fontAlignY=44&desc=Full-Stack%20Developer%20%C2%B7%20Araioses%2C%20MA&descAlignY=66&descSize=13&descColor=6B7280&animation=fadeIn&stroke=374151&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F3F4F6,50:FAFAFA,100:F3F4F6&height=170&section=header&text=Messias%20Nascimento%20Lima&fontSize=38&fontColor=0A1628&fontAlignY=44&desc=Full-Stack%20Developer%20%C2%B7%20Araioses%2C%20MA&descAlignY=66&descSize=13&descColor=6B7280&animation=fadeIn&stroke=374151&strokeWidth=1" width="100%" />
 
 </div>
 
 <br>
+<br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=15&duration=4000&pause=1500&color=6B7280&background=FAFAFA00&center=true&vCenter=true&width=640&lines=C%C3%B3digo+intencional.+Impacto+real.;JavaScript+·+TypeScript+·+React+·+Next.js+·+Node.js;Graduando+em+IA+a+partir+de+agosto)](https://github.com/MessiasLim)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=15&duration=4000&pause=1500&color=6B7280&background=FAFAFA00&center=true&vCenter=true&width=640&height=35&lines=O+amanh%C3%A3+%C3%A9+o+resultado+do+que+foi+constru%C3%ADdo+hoje.;JavaScript+·+TypeScript+·+React+·+Next.js+·+Node.js;Graduando+em+Intelig%C3%AAncia+Artificial+na+UFDPAR)](https://github.com/MessiasLim)
 
 </div>
 
@@ -16,7 +17,7 @@
 
 Atuo como Desenvolvedor Full-Stack, com foco em **JavaScript**, **TypeScript**, **React**, **Next.js** e **Node.js**, além de trabalhar com **PostgreSQL**, **MySQL** e **MongoDB**. Utilizo **Sass**, **Bootstrap** e **Tailwind CSS** para a construção de interfaces dinâmicas, limpas e altamente adaptáveis para cada projeto. Desenvolvo soluções do **Frontend** ao **Backend**, com integração de **APIs**, modelagem de bancos de dados e versionamento com **Git** e **GitHub**, aplicando boas práticas de organização, manutenção e escalabilidade.
 
-Participei de projetos nas áreas de saúde e inteligência artificial. No **OdontoEase**, software de gestão para clínicas odontológicas, atuei no desenvolvimento **Frontend** com **React**. No **DashMed**, sistema de gestão hospitalar para UTIs, teleatendimento e administração de pacientes e equipes, participei como desenvolvedor **Full-Stack** utilizando **React** e **Node.js**. Na CaisHub, treinei modelos de linguagem com a biblioteca **Unsloth**, no desenvolvimento de um chatbot voltado ao budismo.
+Participei de vários projetos nas áreas de saúde e inteligência artificial. No **OdontoEase**, software de gestão para clínicas odontológicas, atuei no desenvolvimento do **Frontend** com **React**. No **DashMed**, sistema de gestão hospitalar para UTIs, teleatendimento e administração de pacientes e equipes, participei como desenvolvedor **Full-Stack** utilizando **React** e **Node.js**. Na CaisHub, treinei modelos de linguagem com a biblioteca **Unsloth**, no desenvolvimento de um chatbot voltado ao budismo.
 
 Atualmente cursando minha graduação em Inteligência Artificial, um passo essencial na minha jornada rumo à Engenharia de Software. Com uma base prática construída através de bolsas e projetos desenvolvidos no IFMA, agora foco na consolidação dos fundamentos técnicos necessários para projetar arquiteturas escaláveis e sistemas robustos de alto nível.
 
@@ -94,7 +95,7 @@ Plataforma colaborativa e estruturada de trilhas de aprendizado em tecnologia, d
 
 <td width="50%" valign="top">
 
-### Absolute Dominus
+### Gym Progress
 
 Aplicação mobile-first de alta performance construída para o rastreamento preciso de treinos, controle avançado de histórico de cargas e otimização da progressão de hipertrofia.
 
@@ -141,6 +142,6 @@ Aplicação mobile-first de alta performance construída para o rastreamento pre
 
 *"O amanhã é o resultado do que foi construído hoje."*
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F3F4F6,100:FAFAFA&height=50&section=footer&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F3F4F6,100:FAFAFA&height=60&section=footer&reversal=true" width="100%" />
 
 </div>
