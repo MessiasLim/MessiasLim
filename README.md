@@ -17,7 +17,7 @@
 
 Atuo como Desenvolvedor Full-Stack, com foco em **JavaScript**, **TypeScript**, **React**, **Next.js** e **Node.js**, além de trabalhar com **PostgreSQL**, **MySQL** e **MongoDB**. Utilizo **Sass**, **Bootstrap** e **Tailwind CSS** para a construção de interfaces dinâmicas, limpas e altamente adaptáveis para cada projeto. Desenvolvo soluções do **Frontend** ao **Backend**, com integração de **APIs**, modelagem de bancos de dados e versionamento com **Git** e **GitHub**, aplicando boas práticas de organização, manutenção e escalabilidade.
 
-Participei de vários projetos nas áreas de saúde e inteligência artificial. No **OdontoEase**, software de gestão para clínicas odontológicas, atuei no desenvolvimento do **Frontend** com **React**. No **DashMed**, sistema de gestão hospitalar para UTIs, teleatendimento e administração de pacientes e equipes, participei como desenvolvedor **Full-Stack** utilizando **React** e **Node.js**. Na CaisHub, treinei modelos de linguagem com a biblioteca **Unsloth**, no desenvolvimento de um chatbot voltado ao budismo.
+Participei de vários projetos nas áreas da saúde e inteligência artificial. No **OdontoEase**, um software de gestão para clínicas odontológicas, atuei no desenvolvimento do **Frontend** com **React**. Já no **DashMed**, um sistema de gestão hospitalar para UTIs, teleatendimento e administração de pacientes e equipes, participei como desenvolvedor **Full-Stack** utilizando **React** e **Node.js**. Na CaisHub, treinei modelos de linguagem com a biblioteca **Unsloth**, no desenvolvimento de um chatbot voltado ao budismo.
 
 Atualmente cursando minha graduação em Inteligência Artificial, um passo essencial na minha jornada rumo à Engenharia de Software. Com uma base prática construída através de bolsas e projetos desenvolvidos no IFMA, agora foco na consolidação dos fundamentos técnicos necessários para projetar arquiteturas escaláveis e sistemas robustos de alto nível.
 
@@ -113,7 +113,7 @@ Aplicação mobile-first de alta performance construída para o rastreamento pre
 
 <div align="center">
 
-<img height="152" src="https://github-stats-extended.vercel.app/api?username=MessiasLim&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=0A1628&icon_color=6B7280&text_color=374151&include_all_commits=true&count_private=true"/>
+<img height="140" src="https://github-stats-extended.vercel.app/api?username=MessiasLim&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=0A1628&icon_color=6B7280&text_color=374151&include_all_commits=true&count_private=true"/>
 <img height="152" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MessiasLim&layout=compact&hide_border=true&bg_color=FAFAFA&title_color=0A1628&text_color=374151"/>
 
 </div>
