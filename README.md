@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F3F4F6,50:FAFAFA,100:F3F4F6&height=170&section=header&text=Messias%20Nascimento%20Lima&fontSize=38&fontColor=0A1628&fontAlignY=44&desc=Full-Stack%20Developer%20%C2%B7%20Araioses%2C%20MA&descAlignY=66&descSize=13&descColor=6B7280&animation=fadeIn&stroke=374151&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F3F4F6,50:FAFAFA,100:F3F4F6&height=190&section=header&text=Messias%20Nascimento%20Lima&fontSize=38&fontColor=0A1628&fontAlignY=44&desc=Full-Stack%20Developer%20%C2%B7%20Araioses%2C%20MA&descAlignY=66&descSize=13&descColor=6B7280&animation=fadeIn&stroke=374151&strokeWidth=1" width="100%" />
 
 </div>
 
@@ -113,8 +113,8 @@ Aplicação mobile-first de alta performance construída para o rastreamento pre
 
 <div align="center">
 
-<img height="152" src="https://github-readme-stats.vercel.app/api?username=MessiasLim&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=0A1628&icon_color=6B7280&text_color=374151&include_all_commits=true&count_private=true"/>
-<img height="152" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MessiasLim&layout=compact&hide_border=true&bg_color=FAFAFA&title_color=0A1628&text_color=374151"/>
+<img height="152" src="https://github-stats-extended.vercel.app/api?username=MessiasLim&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=0A1628&icon_color=6B7280&text_color=374151&include_all_commits=true&count_private=true"/>
+<img height="152" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MessiasLim&layout=compact&hide_border=true&bg_color=FAFAFA&title_color=0A1628&text_color=374151"/>
 
 </div>
 
